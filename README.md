@@ -4,6 +4,10 @@ Drop packets from caching server in PKU using [WinDivert](https://reqrypt.org/wi
 
 This application must have Administrator privileges to install WinDivert driver into kernel.
 
+## DOWNLOAD
+
+[https://github.com/myxxxsquared/cachefilter/releases](https://github.com/myxxxsquared/cachefilter/releases)
+
 ## LICENSE
 
 cachefilter is free software : you can redistribute it and/or modify
